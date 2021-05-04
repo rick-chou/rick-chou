@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Typescript && React && Node
 - 👻 Welcome to my Home --> https://luckychou.gitee.io/
 - 📝 Mail me --> 944268618@qq.com
+- 😜 React 小册 --> https://www.yuque.com/u12206867/react
 
 <!---
 LuckyChou710/LuckyChou710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
