@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuckyChou
 - 👀 I’m interested in FE
-- 🌱 I’m currently learning Typescript && React && Node && Go
+- 🌱 I’m currently learning Typescript && React && Node && Go && Python
 - 👻 Welcome to my Home --> https://luckychou.gitbook.io/blog/
 - 📝 Mail me --> 944268618@qq.com
 
