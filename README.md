@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @LuckyChou
-- 👀 I’m interested in FE
-- 🌱 I’m currently learning Typescript && React && Node && Go && Python
-- 👻 Welcome to my Home --> https://luckychou.gitbook.io/blog/
-- 👾 Now I am writing on juejin --> https://juejin.cn/user/1574156383563496
-- 📝 Mail me --> 944268618@qq.com
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class FullStackEngineer:
+
+    def __init__(self):
+        self.name = "Nanshu"
+        self.role = "FullStack Engineer"
+        self.language_spoken = ["zh_CN"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+    def go_blog(self):
+        print("https://luckychou.gitbook.io/blog/")
+        
+    def go_juejing(self):
+        print("https://juejin.cn/user/1574156383563496/")
+
+
+me = FullStackEngineer()
+me.say_hi()
+```
 
 <div>
   <img src="/assets/js.webp" width="100" />
