@@ -8,16 +8,14 @@ class FullStackEngineer:
     def __init__(self):
         self.name = "Nanshu"
         self.role = "FullStack Engineer"
-        self.language_spoken = ["zh_CN"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-    def go_blog(self):
+    def show_blog(self):
         print("https://luckychou.gitbook.io/blog/")
-        
-    def go_juejing(self):
         print("https://juejin.cn/user/1574156383563496/")
+        
 
 
 me = FullStackEngineer()
