@@ -30,6 +30,8 @@
 掘金主页 [juejin](https://juejin.cn/user/1574156383563496) ( 更新中 🏠 )
 
 个人博客 [blog](https://luckychou.gitbook.io/blog/)( 停止维护 ⚠️ )
+  
+学习笔记 [code-traveling](https://github.com/LuckyChou710/code-traveling) ( codeing 🧑‍💻 )
 
 个人网站 [fe-tutorial](http://124.223.71.181:3000/) ( 施工中 🚧 )
 
