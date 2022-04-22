@@ -2,24 +2,24 @@
   
 <br />
 
-<a href="https://github.com/LuckyChou710/nanshu-ui">
+<a href="https://github.com/LuckyChou710/code-traveling">
   <img
     height="80"
     width="80"
-    alt="dog"
-    src="https://cdn.jsdelivr.net/gh/LuckyChou710/blog-images/icon/icon3.png"
+    alt=""
+    src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon3.png"
   />
   <img
     height="80"
     width="80"
-    alt="dog"
-    src="https://cdn.jsdelivr.net/gh/LuckyChou710/blog-images/icon/icon6.png"
-  />
-  <img
-    height="80"
-    width="80"
-    alt="dog"
+    alt=""
     src="https://cdn.jsdelivr.net/gh/LuckyChou710/blog-images/icon/icon5.png"
+  />
+  <img
+    height="80"
+    width="80"
+    alt=""
+    src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon27.png"
   />
 </a>
   
@@ -42,12 +42,12 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/blog-images/icon/js.webp" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/blog-images/icon/react.webp" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/blog-images/icon/vue.webp" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/blog-images/icon/python.webp" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/blog-images/icon/github.webp" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/blog-images/icon/vscode.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/js.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/react.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/vue.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/python.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/github.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/vscode.webp" width="80" />
 </div>
 
 
