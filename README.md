@@ -7,19 +7,19 @@
     height="80"
     width="80"
     alt=""
-    src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon3.png"
+    src="https://cdn.jsdelivr.net/gh/rick-chou/rick-assets/png/3.png"
   />
    <img
     height="80"
     width="80"
     alt=""
-    src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon27.png"
+    src="https://cdn.jsdelivr.net/gh/rick-chou/rick-assets/png/27.png"
   />
   <img
     height="80"
     width="80"
     alt=""
-    src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/png/icon5.png"
+    src="https://cdn.jsdelivr.net/gh/rick-chou/rick-assets/png/5.png"
   />
 </a>
   
@@ -42,12 +42,12 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/js.webp" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/react.webp" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/vue.webp" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/python.webp" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/github.webp" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/LuckyChou710/nanshu-assets/webp/vscode.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/rick-chou/rick-assets/webp/js.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/rick-chou/rick-assets/webp/react.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/rick-chou/rick-assets/webp/vue.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/rick-chou/rick-assets/webp/python.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/rick-chou/rick-assets/webp/github.webp" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/rick-chou/rick-assets/webp/vscode.webp" width="80" />
 </div>
 
 
