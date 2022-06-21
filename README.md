@@ -27,9 +27,9 @@
   
 <br />
   
-[Blog](https://juejin.cn/user/1574156383563496) 🏠 
+[Some Study Notes](https://juejin.cn/user/1574156383563496) 📒
 
-[Npm Package](https://www.npmjs.com/rickchou) 📦
+[Some Npm Packages](https://www.npmjs.com/rickchou) 📦
 
 </div>
 
