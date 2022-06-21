@@ -27,11 +27,9 @@
   
 <br />
   
-掘金主页 [juejin](https://juejin.cn/user/1574156383563496) ( 更新中 🏠 )
+[Blog](https://juejin.cn/user/1574156383563496) 🏠 
 
-个人博客 [blog](https://luckychou.gitbook.io/blog/)( 停止维护 ⚠️ )
-  
-一些些 [npm package](https://www.npmjs.com/rickchou)( 扩展中 🏗 )
+[Npm Package](https://www.npmjs.com/rickchou) 📦
 
 </div>
 
