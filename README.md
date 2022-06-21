@@ -31,13 +31,7 @@
 
 个人博客 [blog](https://luckychou.gitbook.io/blog/)( 停止维护 ⚠️ )
   
-学习笔记 [code-traveling](https://github.com/LuckyChou710/code-traveling) ( codeing 🧑‍💻 )
-
-个人网站 [fe-tutorial](http://124.223.71.181:3000/) ( 施工中 🚧 )
-
-个人UI [@nanshu/ui](http://124.223.71.181:3002/) ( 建设中 👷 )
-  
-一些些 [npm package](https://www.npmjs.com/~chou209)( 扩展中 🏗 )
+一些些 [npm package](https://www.npmjs.com/rickchou)( 扩展中 🏗 )
 
 </div>
 
