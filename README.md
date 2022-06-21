@@ -29,7 +29,7 @@
   
 [Some Study Notes](https://juejin.cn/user/1574156383563496) 📒
 
-[Some Npm Packages](https://www.npmjs.com/rickchou) 📦
+[Some Npm Packages](https://www.npmjs.com/settings/one-piece-rick/packages) 📦
 
 </div>
 
