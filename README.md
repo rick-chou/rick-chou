@@ -27,10 +27,10 @@
   
 <br />
   
-<a href="./javascript/README.md"><strong><i>📒 JavaScript Notes</i></strong></a>
-<a href="./angular/README.md"><strong><i>📒 Angular Notes</strong></i></a>
-<a href="./vue/README.md"><strong><i>📒 Vue Notes</strong></a></i>
-<a href="./react/README.md"><strong><i>📒 React Notes</strong></a></i>
+<a href="https://github.com/rick-chou/one-piece/tree/main/javascript"><strong><i>📒 JavaScript Notes</i></strong></a>
+<a href="https://github.com/rick-chou/one-piece/tree/main/angular"><strong><i>📒 Angular Notes</strong></i></a>
+<a href="https://github.com/rick-chou/one-piece/tree/main/vue"><strong><i>📒 Vue Notes</strong></a></i>
+<a href="https://github.com/rick-chou/one-piece/tree/main/react"><strong><i>📒 React Notes</strong></a></i>
   
 #### 👨‍💻 <a href="https://juejin.cn/user/1574156383563496"><strong><i>community juejin</i></strong></a>
   
