@@ -2,7 +2,7 @@
   
 <br />
 
-<a href="https://github.com/LuckyChou710/code-traveling">
+<a href="https://github.com/rick-chou/one-piece">
   <img
     height="80"
     width="80"
@@ -27,10 +27,12 @@
   
 <br />
   
-<a href="https://github.com/rick-chou/one-piece/tree/main/javascript"><strong><i>📒 JavaScript Notes</i></strong></a>
-<a href="https://github.com/rick-chou/one-piece/tree/main/angular"><strong><i>📒 Angular Notes</strong></i></a>
-<a href="https://github.com/rick-chou/one-piece/tree/main/vue"><strong><i>📒 Vue Notes</strong></a></i>
-<a href="https://github.com/rick-chou/one-piece/tree/main/react"><strong><i>📒 React Notes</strong></a></i>
+<a href="https://github.com/rick-chou/one-piece/tree/main/docs/javascript"><strong><i>📒 JavaScript Notes</i></strong></a>
+<a href="https://github.com/rick-chou/one-piece/tree/main/docs/angular"><strong><i>📒 Angular Notes</strong></i></a>
+<a href="https://github.com/rick-chou/one-piece/tree/main/docs/vue"><strong><i>📒 Vue Notes</strong></a></i>
+<a href="https://github.com/rick-chou/one-piece/tree/main/docs/react"><strong><i>📒 React Notes</strong></a></i>
+
+#### 🏠 <a href="https://rick-chou.github.io/one-piece/#/"><strong><i>blog one-piece</i></strong></a>
   
 #### 👨‍💻 <a href="https://juejin.cn/user/1574156383563496"><strong><i>community juejin</i></strong></a>
   
