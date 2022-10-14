@@ -36,7 +36,7 @@
   
 #### 👨‍💻 <a href="https://juejin.cn/user/1574156383563496"><strong><i>community juejin</i></strong></a>
   
-#### 📦 <a href="https://www.npmjs.com/settings/one-piece-rick/packages"><strong><i>Some Npm Packages</i></strong></a>
+#### 📦 <a href="https://www.npmjs.com/settings/rickzhou/packages"><strong><i>Some Npm Packages</i></strong></a>
 
 </div>
 
