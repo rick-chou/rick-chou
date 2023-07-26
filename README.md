@@ -32,7 +32,7 @@
 <a href="https://github.com/rick-chou/one-piece/tree/main/docs/vue"><strong><i>📒 Vue Notes</strong></a></i>
 <a href="https://github.com/rick-chou/one-piece/tree/main/docs/react"><strong><i>📒 React Notes</strong></a></i>
 
-#### 🏠 <a href="https://rick-chou.github.io/one-piece/#/"><strong><i>blog one-piece</i></strong></a>
+#### 🏠 <a href="https://rick-chou.github.io/react-awesome/"><strong><i>blog one-piece</i></strong></a>
   
 #### 👨‍💻 <a href="https://juejin.cn/user/1574156383563496"><strong><i>community juejin</i></strong></a>
   
