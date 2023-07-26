@@ -49,7 +49,26 @@
   <img src="https://cdn.jsdelivr.net/gh/rick-chou/rick-assets/webp/vscode.webp" width="80" />
 </div>
 
+## 🌈 Time Machine
 
+### 2021
+
+- [x] Graduation! 🥂 🧱 👷🏿‍♂️
+- [x] Use Vue 2 😀
+- [x] Use React 😍
+
+### 2022
+
+- [x] Use React Native 😅
+- [x] Learn Mysql
+
+### 2023
+
+- [x] Use Angular2.0+ 🤔
+- [x] Continue to use React 😅
+- [x] Learn Nestjs 😀
+- [ ] Learn Java 😎
+- [ ] Get married 🥰
 
 <!---
 LuckyChou710/LuckyChou710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
