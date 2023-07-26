@@ -27,10 +27,10 @@
   
 <br />
   
-<a href="https://github.com/rick-chou/one-piece/tree/main/docs/javascript"><strong><i>📒 JavaScript Notes</i></strong></a>
-<a href="https://github.com/rick-chou/one-piece/tree/main/docs/angular"><strong><i>📒 Angular Notes</strong></i></a>
-<a href="https://github.com/rick-chou/one-piece/tree/main/docs/vue"><strong><i>📒 Vue Notes</strong></a></i>
-<a href="https://github.com/rick-chou/one-piece/tree/main/docs/react"><strong><i>📒 React Notes</strong></a></i>
+<a href="https://rick-chou.github.io/react-awesome/rick/blog"><strong><i>📒 JavaScript Notes</i></strong></a>
+<a href="https://rick-chou.github.io/react-awesome/rick/blog"><strong><i>📒 Angular Notes</strong></i></a>
+<a href="https://rick-chou.github.io/react-awesome/rick/blog"><strong><i>📒 Vue Notes</strong></a></i>
+<a href="https://rick-chou.github.io/react-awesome/rick/blog"><strong><i>📒 React Notes</strong></a></i>
 
 #### 🏠 <a href="https://rick-chou.github.io/react-awesome/"><strong><i>blog one-piece</i></strong></a>
   
