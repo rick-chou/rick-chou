@@ -32,7 +32,7 @@
 <a href="https://rick-chou.github.io/react-awesome/rick/blog"><strong><i>📒 Vue Notes</strong></a></i>
 <a href="https://rick-chou.github.io/react-awesome/rick/blog"><strong><i>📒 React Notes</strong></a></i>
 
-#### 🏠 <a href="https://rick-chou.github.io/react-awesome/"><strong><i>blog one-piece</i></strong></a>
+#### 🏠 <a href="https://rick-chou.github.io/one-piece-react/"><strong><i>blog one-piece</i></strong></a>
   
 #### 👨‍💻 <a href="https://juejin.cn/user/1574156383563496"><strong><i>community juejin</i></strong></a>
   
@@ -54,23 +54,18 @@
 ### 2021
 
 - [x] Graduation! 🥂 🧱 👷🏿‍♂️
-- [x] Use Vue 2 😀
 - [x] Use React 😍
 
 ### 2022
 
 - [x] Use React Native 😅
-- [x] Learn Mysql
 
 ### 2023
 
 - [x] Use Angular2.0+ 🤔
-- [x] Continue to use React 😅
-- [x] Learn Nestjs 😀
-- [ ] Learn Java 😎
 - [ ] Get married 🥰
 
 <!---
-LuckyChou710/LuckyChou710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rick-chou/rick-chou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
