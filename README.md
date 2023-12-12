@@ -27,16 +27,14 @@
   
 <br />
   
-<a href="https://rick-chou.github.io/react-awesome/rick/blog"><strong><i>📒 JavaScript Notes</i></strong></a>
-<a href="https://rick-chou.github.io/react-awesome/rick/blog"><strong><i>📒 Angular Notes</strong></i></a>
-<a href="https://rick-chou.github.io/react-awesome/rick/blog"><strong><i>📒 Vue Notes</strong></a></i>
-<a href="https://rick-chou.github.io/react-awesome/rick/blog"><strong><i>📒 React Notes</strong></a></i>
+<a href="https://rick-chou.github.io/one-piece-react/rick/blog" target="_black"><strong><i>📒 JavaScript Notes</i></strong></a>
+<a href="https://rick-chou.github.io/one-piece-react/rick/blog" target="_black"><strong><i>📒 Angular Notes</strong></i></a>
+<a href="https://rick-chou.github.io/one-piece-react/rick/blog" target="_black"><strong><i>📒 Vue Notes</strong></a></i>
+<a href="https://rick-chou.github.io/one-piece-react/rick/blog" target="_black"><strong><i>📒 React Notes</strong></a></i>
 
-#### 🏠 <a href="https://rick-chou.github.io/one-piece-react/"><strong><i>blog one-piece</i></strong></a>
+#### 🏠 <a href="https://rick-chou.github.io/one-piece-react/"><strong><i>Blog</i></strong></a>
   
-#### 👨‍💻 <a href="https://juejin.cn/user/1574156383563496"><strong><i>community juejin</i></strong></a>
-  
-#### 📦 <a href="https://www.npmjs.com/settings/rickzhou/packages"><strong><i>Some Npm Packages</i></strong></a>
+#### 👨‍💻 <a href="https://juejin.cn/user/1574156383563496"><strong><i>Community</i></strong></a>
 
 </div>
 
@@ -54,16 +52,17 @@
 ### 2021
 
 - [x] Graduation! 🥂 🧱 👷🏿‍♂️
-- [x] Use React 😍
+- [x] React Developer 😍
 
 ### 2022
 
-- [x] Use React Native 😅
+- [x] React Native Developer 😅
 
 ### 2023
 
-- [x] Use Angular2.0+ 🤔
-- [ ] Get married 🥰
+- [x] Angular2.0+ Developer 🤔
+- [x] React Developer 😂
+- [x] Get married 🥰
 
 <!---
 rick-chou/rick-chou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
